@@ -1,5 +1,3 @@
-import Box from '@mui/material/Box';
-import Icon from '@mui/material/Icon';
 import Button from '@mui/material/Button';
 
 function App() {
