@@ -1,17 +1,9 @@
-import Button from '@mui/material/Button';
+import Board from './pages/Boards/_id.jsx'
 
-function App() {
-
+export default function App() {
   return (
     <>
-      <div>Thai Binh</div>
-      <Button variant="text">Text</Button>
-      <Button variant="contained">Contained</Button>
-      <Button variant="outlined">Outlined</Button>
-      <br></br>
-      <Icon>add_circle</Icon>
+      <Board />
     </>
-  )
+  );
 }
-
-export default App
